@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá para você que veio visitar minha página 👋
+
+Eu sou o Diego, 38 anos, Formado em Engenharia Elétrica com Ênfase em Sistemas e Computação, e Pós-Graduado em Engenharia de Software. 
+
+Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno estudante dessa área. :sweat_smile: 
+
+Ferramentas e Tecnologias
+
+
 
 <!--
 **DiegoNeves/DiegoNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
