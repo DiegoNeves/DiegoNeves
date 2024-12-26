@@ -4,6 +4,9 @@ Eu sou o Diego, 38 anos, Formado em Engenharia Elétrica com Ênfase em Sistemas
 
 Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno estudante dessa área. :sweat_smile: 
 
+![Static Badge](https://img.shields.io/badge/Status%20da%20P%C3%A1gina-Em%20Desenvolvimento-fac043)
+
+
 Ferramentas e Tecnologias
 
 ![html5](https://github.com/user-attachments/assets/354969d9-cf79-48f0-86aa-6115550592e1)
