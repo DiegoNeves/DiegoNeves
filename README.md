@@ -3,9 +3,11 @@
 Eu sou o Diego, 38 anos, Formado em Engenharia Elétrica com Ênfase em Sistemas e Computação, e Pós-Graduado em Engenharia de Software. 
 
 Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno estudante dessa área. :sweat_smile: 
+
+##
 <div>
-  <a href="mailto:diego.r.neves@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-do-ros%C3%A1rio-neves-66462737/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a>
+  <a href="mailto:diego.r.neves@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.linkedin.com/in/diego-do-ros%C3%A1rio-neves-66462737/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"target="_blank" rel="noopener noreferrer"></a>
  </div> 
  
    
