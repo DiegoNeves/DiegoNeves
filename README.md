@@ -35,7 +35,12 @@ Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno 
 - Programação Front-End;
 - Próximo passo: Estudar React.
 
+##
+### :earth_americas: Idiomas :earth_africa:
 
+- :pushpin: Inglês
+- :pushpin: Espanhol
+- :pushpin: Francês
 <!--
 **DiegoNeves/DiegoNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
