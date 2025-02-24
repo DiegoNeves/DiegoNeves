@@ -28,7 +28,7 @@ Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno 
   <img loading="lazy" src="https://github.com/user-attachments/assets/dbdb97b0-87b4-4f93-9550-cb1ddb761fe9" width=75>
 </div>
 
-
+<div style="display:inline_block"><br>
 
 📚 Atualmente estou estudando:
 - Git e GitHub;
