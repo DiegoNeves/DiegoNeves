@@ -23,8 +23,6 @@ Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno 
 </h4>
 
 ### Ferramentas e Tecnologias:
-
-<div style="display:inline_block"><br>
   <img loading="lazy" src="https://github.com/user-attachments/assets/354969d9-cf79-48f0-86aa-6115550592e1" width=80>
   <img loading="lazy" src="https://github.com/user-attachments/assets/83b269db-b4a0-41b8-83c2-066ce9ecc594" width=63>
   <img loading="lazy" src="https://github.com/user-attachments/assets/dbdb97b0-87b4-4f93-9550-cb1ddb761fe9" width=75>
