@@ -22,7 +22,7 @@ Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno 
     :construction:  Página em construção  :construction:
 </h4>
 
-### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias:
 
 <div style="display:inline_block"><br>
   <img loading="lazy" src="https://github.com/user-attachments/assets/354969d9-cf79-48f0-86aa-6115550592e1" width=80>
