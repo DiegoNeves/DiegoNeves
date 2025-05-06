@@ -32,7 +32,7 @@ Trabalho com programação e desenvolvimento web há alguns anos. Sou um eterno 
 
 📚 Atualmente estou estudando:
 - Git e GitHub;
-- Programação Front-End;
+- Programação Front-End -> Formação Front-End na Alura;
 - Próximo passo: Estudar React.
 
 ##
